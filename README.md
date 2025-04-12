@@ -30,10 +30,16 @@ Basically, if it involves logic, loops, or late nights — I’ve probably studi
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Feature Engineering" height="50" />
 </div>
 </td></tr></table>  
-<br/>  
 
-
-
+## Connect with me 
+<div>
+<a href="https://linkedin.com/in/muaaz-aamer-39760334a" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:mmuaazaamer@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
+</div> 
 
 <!--
 **MuaazAamer/MuaazAamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
